@@ -8,8 +8,9 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/go-chi/chi/v5"
 	"github.com/joho/godotenv"
-	"github.com/nahid/meal-management/graph"
-	"github.com/nahid/meal-management/graph/generated"
+
+	"github.com/Nahid-Anik/meal-management/graph"
+	"github.com/Nahid-Anik/meal-management/graph/generated"
 )
 
 func main() {
